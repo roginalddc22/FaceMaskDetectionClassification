@@ -1,0 +1,6 @@
+Put image folders to the root folder if the data_cleaning.ipynb:
+for example: root/images
+	     root/supplementary_images
+
+Links for the images: 
+https://mymailmapuaedu-my.sharepoint.com/:f:/g/personal/rgbdelacruz_mymail_mapua_edu_ph/EmN0FsOaIuhIvFcm2Hg7r-kBHXKWjm5U4wkpq6VTKNh_nw?e=85tF1l
