@@ -1,0 +1,12 @@
+./FINAL_DATASET/croppedv2
+./Validation/train_1
+./DatasetCleaning/croppedv2
+./DatasetCleaning/data
+data/
+OneDrive_10_4-28-2022.zip
+OneDrive_11_4-28-2022.zip
+OneDrive_33_4-28-2022.zip
+OneDrive_9_4-28-2022.zip
+*.jpg
+*.png
+*.jpeg
